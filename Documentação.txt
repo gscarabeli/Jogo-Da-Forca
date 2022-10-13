@@ -1,0 +1,6 @@
+Nome do Projeto: Jogo Da Forca;
+
+Integrantes: Gustavo Correia Scarabeli - RA: 082210030;
+		  Yasmin Laisa Maciel - RA: 082210040;
+
+O que o jogo faz: Ele opera como um jogo da forca normal, onde há uma palavra que deve ser desvendada, possui um botão de dicas, possui música de fundo, telas especiais + sons para quando o jogador perde ou ganha, além de apresentar sprites para cada erro do jogador completando o desenho da forca.
